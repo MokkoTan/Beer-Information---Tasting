@@ -12,11 +12,17 @@
 .
 #### Data Origin
 Source Name:		Beer Information - Tasting Profiles
+
 Format:		‘CSV’
+
 Created on:		Jan 10, 2020
+
 Coverage:		Jan 10, 2020 to Jan 12, 2020
+
 Source(s):		BeerAdvocate.com
+
 Collection Methodology:     Scraped information on rated beers and their reviews. Word counts from reviews were used to define a beer's features
+
 Records:		5558
 .
 
