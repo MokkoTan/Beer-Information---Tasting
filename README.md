@@ -27,7 +27,7 @@ Records:		5558
 .
 
 
-[![N|Solid]([https://imgur.com/h8JYpQ7.jpg](https://www.subhaminfotech.in/wp-content/uploads/2018/05/click-here-png-click-here-icon-png-360.png))](https://www.kaggle.com/datasets/stephenpolozoff/top-beer-information?select=beer_data_set.csv)  
+[![N|Solid]([https://imgur.com/h8JYpQ7.jpg](https://www.subhaminfotech.in/wp-content/uploads/2018/05/click-here-png-click-here-icon-png-360.png))](https://www.kaggle.com/datasets/stephenpolozoff/top-beer-information?select=beer_data_set.csv) 
 
 ## Context
 The goal of the project was to create a tasting profile on beer based on word counts for a classification and recommendation system. The first ten columns are information on the beer provided by the source, along with contributed information like a unique key for each beer and style. The last eleven columns represent the tasting profile features of the beer, and are defined by word counts found in up to 25 reviews of each beer. The assumption is that people writing reviews are more than likely describing what they do experience rather than what they do not.
